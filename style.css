@@ -1,5 +1,6 @@
 body{
     font-family:'poppins',sans-serif;
+    margin: 0%;
 }
 .name{
     color: orange;
@@ -13,11 +14,19 @@ section{
     padding: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 85%;
+    
 }
 .link-button{
     text-decoration: none;
-    background-color: rgb(247, 137, 69);
-    text-decoration-color: black;
-
+    background-color: rgb(248, 127, 106);
+    color: white;
+    font-weight: 550;
+     padding: 15px 40px;
+    border-radius: 8%;
+    
+}
+.Top{
+background-image: url(images/top-banner.png);
+background-repeat: no-repeat;
 }
