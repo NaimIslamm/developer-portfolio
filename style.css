@@ -6,7 +6,7 @@ body{
     color: orange;
     font-size: 50px;
 }
-section{
+.flexible-conatiner{
     display: flex;
     margin-bottom: 120px;
 }
